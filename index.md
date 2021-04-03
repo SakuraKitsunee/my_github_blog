@@ -17,4 +17,4 @@
 
 # achievements 
 
-<ul> Fri, Apr 2, made my first github page blog! <ul/>
+<ul> Fri, Apr 2, made my first github page blog!
