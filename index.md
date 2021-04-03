@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Website</title>
+    <style></style>
+  </head>
+  <body>
+    <div class="header">This is a header</div>
+    <div class="menu">
+      <a href="homepage.html">Home</a><br />
+      <a href="contactpage.html">Contact</a><br />
+    </div>
+    <div class="content">
+      "Him my name is UN3N0WNGH0ST and this is going to be a sort of coding blog, im super excited for this because this is my first github page EVER so this is really exciting! i hope you follow along and enjoy!"
+    </div>
+    <div class="footer"></div>
+  </body>
+</html>
 
-You can use the [editor on GitHub](https://github.com/UN3N0WNGH0ST/my_github_portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Contact Me</title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UN3N0WNGH0ST/my_github_portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+   <style></style>
+  </head>
+  <body>
+    <div class="header">This is a header</div>
+    <div class="menu">
+      <a href="homepage.html">Home</a><br />
+      <a href="contactpage.html">Contact</a><br />
+    </div>
+    <div class="content">
+      <h1>Here's how you can contact me!</h1>
+      <ul>
+        <li>Email: calebthehufflepuff@gmail.com</li>
+      </ul>
+    </div>
+    <div class="footer"></div>
+  </body>
+</html>
